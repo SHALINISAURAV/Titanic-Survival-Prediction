@@ -90,7 +90,7 @@ print("✅ Survived" if model.predict(sample)[0] else "❌ Not Survived")
 
 ---
 
-## 👨‍💻 Author  
+## 👩‍💻Author✨ 
 **Your Name**  
 📧 [shalinisourav07@gmail.com]  
 🌐 [https://github.com/SHALINISAURAV]  
